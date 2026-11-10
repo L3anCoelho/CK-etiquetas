@@ -1,0 +1,8 @@
+PyMuPDF>=1.24
+customtkinter>=5.2
+Pillow>=10.0
+tkinterdnd2>=0.4
+
+# desenvolvimento / empacotamento
+pytest>=8.0
+pyinstaller>=6.0

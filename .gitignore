@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+build/
+dist/
+saida_testes/
+dados/
+.pytest_cache/
+referencias/notas_exemplo.pdf
+.claude/
+
+# programa instalado por engano nesta pasta (não versionar)
+/CKEtiquetas.exe
+/_internal/
+/unins*.dat
+/unins*.exe
